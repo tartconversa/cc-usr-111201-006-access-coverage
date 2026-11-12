@@ -1,0 +1,23 @@
+{
+  "matching_score_tolerance": 1,
+  "source_dependency_theta": [
+    "1/2",
+    1,
+    2
+  ],
+  "strata": [
+    "department"
+  ],
+  "seed": 1120106,
+  "include_unmatched": true,
+  "ambiguity_fixture_keys": {
+    "a": [
+      "a1",
+      "a2"
+    ],
+    "b": [
+      "b1",
+      "b2"
+    ]
+  }
+}

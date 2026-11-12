@@ -1,0 +1,27 @@
+[
+  {
+    "path": "fixtures/ambiguous_links.csv",
+    "sha256": "acae2e895e2c8f81bb5f0e6da0de0dfba22c3296609e8be9d8dc8776691ae400",
+    "size_bytes": 47
+  },
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "0403a35694db19de4a3b495cef50e3ce12afd6b86c3ee21fde5b4174b2f3d64b",
+    "size_bytes": 296
+  },
+  {
+    "path": "fixtures/candidate_links.csv",
+    "sha256": "fc21ba1ec4917e7298b623634d033943eee86383f035db7c47c11c12fbac8c47",
+    "size_bytes": 81
+  },
+  {
+    "path": "fixtures/source_a.csv",
+    "sha256": "a82df6d590414de9317fc027e3a5455dc9fe984c67782f235b47fc75861b89ba",
+    "size_bytes": 122
+  },
+  {
+    "path": "fixtures/source_b.csv",
+    "sha256": "0322d6f828be8f442f4f9010fb5d2be6da0aaa49622293ed8d2870a73e614f0d",
+    "size_bytes": 122
+  }
+]
